@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RileySuomi
 - 👀 I like the outdoors, soccer, and socializing.
 - 🌱 3 years of learning to code under my belt.
-- 💞️ I’m looking to collaborate on projects that have a future. 
+- 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me suomir@spu.edu
 
 <!---
