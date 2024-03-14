@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RileySuomi
-- 👀 I like the outdoors, soccer, and socializing.
-- 📫 How to reach me suomir@spu.edu
-
-<div align = "center">
-<img https://github-readme-stats.vercel.app/api/top-langs/?username=RileySuomi&layout=compact&exclude_repo=A1-SQL-Queries-Generator>
+<div>
+<h3>Riley Suomi</h3>
+<br>
+<img alt = "top langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RileySuomi&layout=compact&exclude_repo=A1-SQL-Queries-Generator>
 </div>
 
